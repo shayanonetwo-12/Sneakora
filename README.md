@@ -933,24 +933,24 @@ into a single cohesive digital product.
 
 ### Hero
 
-```
+
 <img width="960" height="431" alt="Screenshot 2026-08-20 145844" src="https://github.com/user-attachments/assets/3d92b31e-12d7-4b75-ad92-9271b68aabd9" />
 
-```
+
 
 ### Product Collection
 
-```
+
 <img width="960" height="436" alt="Screenshot 2026-08-20 145931" src="https://github.com/user-attachments/assets/c8545a63-8299-4c27-a53a-0eaceff4652f" />
 
-```
+
 
 ### Cart / Checkout
 
-```
+
 <img width="959" height="438" alt="Screenshot 2026-08-20 150203" src="https://github.com/user-attachments/assets/1afa1a32-27aa-476b-ab49-cb238a757498" />
 
-```
+
 
 # 🔗 Links
 
